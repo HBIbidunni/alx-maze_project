@@ -1,4 +1,4 @@
-#include "../inc/maze.h"
+#include "../headers/maze.h"
 
 
 
