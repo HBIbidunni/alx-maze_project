@@ -130,5 +130,4 @@ For this project, a game engine was not required.
 
 
 ## The 3D Maze Game Project Demo
-
-[![The 3D Maze Project](https://img.youtube.com/vi/uNMVnidGguI/0.jpg)](https://www.youtube.com/watch?v=uNMVnidGguI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNMVnidGguI" frameborder="0" allowfullscreen></iframe>
