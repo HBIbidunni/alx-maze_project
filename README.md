@@ -1,6 +1,8 @@
 # The ALX Project - The Maze Game
 --------------
 
+![image](https://i.imgur.com/9C0sw3y.png)
+
 The goal of this __Maze Game Project__ is to create a 3D game using the raycasting technique.
 Raycasting is a rendering technique used in computer graphics to simulate
 a `3D environment` in a `2D space`. I have always been fascinated and curious as to
@@ -127,6 +129,6 @@ The __Maze Game Project__ is a game directly inspired by Wolfenstein3D, which wa
 For this project, a game engine was not required.
 
 
-## The Project Image
+## The 3D Maze Game Project 
 
-![image](https://i.imgur.com/9C0sw3y.png)
+[deployed 3D maze video](https://i.imgur.com/3QRgZrS.mp4)
