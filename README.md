@@ -129,6 +129,6 @@ The __Maze Game Project__ is a game directly inspired by Wolfenstein3D, which wa
 For this project, a game engine was not required.
 
 
-## The 3D Maze Game Project 
+## The 3D Maze Game Project Demo
 
-![](https://www.youtube.com/watch?v=uNMVnidGguI)
+![The Maze Project](https://www.youtube.com/embed/uNMVnidGguI)
