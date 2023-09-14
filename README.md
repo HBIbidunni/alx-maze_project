@@ -129,7 +129,4 @@ For this project, a game engine was not required.
 
 ## The Project Image
 
-![](https://imgbox.com/j2JGIBPX)
-
-                                                                                                
-
+![image](https://i.imgur.com/9C0sw3y.png)
