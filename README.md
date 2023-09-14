@@ -131,4 +131,4 @@ For this project, a game engine was not required.
 
 ## The 3D Maze Game Project 
 
-[deployed 3D maze video](https://i.imgur.com/3QRgZrS.mp4)
+![](https://i.imgur.com/3QRgZrS.mp4)
