@@ -118,7 +118,6 @@ This folder contains the SDL2 test file.
 
 - If applicable, create or revise test cases to ensure the changes are properly validated.
 
-
 - If necessary, update the README.md file to reflect any modifications.
 
 - Finally, initiate a Pull Request, providing a comprehensive description of the alterations made.
@@ -127,6 +126,10 @@ This folder contains the SDL2 test file.
 
 The __Maze Game Project__ is a game directly inspired by Wolfenstein3D, which was developed in 1992.
 For this project, a game engine was not required.
+
+## Author
+
+- Oyindamola Ibis 
 
 
 ## The 3D Maze Game Project Demo(click :point_down:)
