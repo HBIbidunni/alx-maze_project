@@ -129,7 +129,7 @@ For this project, a game engine was not required.
 
 ## Author
 
-- Oyindamola Ibis 
+- __Oyindamola Ibis__ 
 
 
 ## The 3D Maze Game Project Demo(click :point_down:)
