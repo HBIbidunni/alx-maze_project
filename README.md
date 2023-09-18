@@ -129,7 +129,7 @@ For this project, a game engine was not required.
 
 ## Author
 
-- __Oyindamola Ibis__ 
+- __Oyindamola Ibis__ - [Github](https://github.com/HBIbidunni)/ [Contact Me](mailto:ayodunibidunni@gmail.com) 
 
 
 ## The 3D Maze Game Project Demo(click :point_down:)
